@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#startheader{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+#startsection{
+    text-align: center;
+    border: 10px;
+    margin-bottom: 50px;
+}
+#startfooter{
+    text-align: center;   
+    margin: 50px;
+
+}
+#startfooter>a{
+    display:block;
+    border:1px solid black;
+    width: 70px;
+    padding:5px;
+    margin:auto;
+    border-radius:5px;
+}
+
+#listheader{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 70px;
+}
+#listsection{
+    display: inline;
+    text-align: center;
+    margin: 100px;
+}
+#listfooter{
+    text-align: center;   
+    margin: 50px;
+
+}
+#listfooter>a{
+    display:block;
+    border:1px solid black;
+    width: 70px;
+    padding:5px;
+    margin:auto;
+    border-radius:5px;
+}
+#profileheader{
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 70px;
+}
+#profilesection{
+    text-align: center;
+    display: inline;
+    margin: 200px;
+}
+#timetable{
+    text-align: center;
+    color: darkblue;
+}
+#profilefooter{
+    text-align: center;   
+    margin: 50px;
+}
+#profilefooter>a{
+    display:block;
+    border:1px solid black;
+    width: 70px;
+    padding:5px;
+    margin:auto;
+    border-radius:5px;
+}
+
+#sns{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+#mail{
+    text-align: center;
+    border: 10px;
+    margin-bottom: 50px;
+}
+#account{
+    text-align: center;
+    border: 10px;
+    margin-bottom: 50px;
+}
+#snsfooter{
+    display:block;
+    border:1px solid black;
+    width: 70px;
+    padding:5px;
+    margin:auto;
+    border-radius:5px;
+}
+
+#tmiheader{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+#tmisection{
+    text-align: center;
+    margin: 50px;
+}
+#tmifooter{
+    text-align: center;   
+    display:block;
+    border:1px solid black;
+    width: 70px;
+    padding:5px;
+    margin:auto;
+    border-radius:5px;
+}
